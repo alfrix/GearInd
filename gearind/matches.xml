@@ -1,0 +1,8 @@
+<Matches>
+  <Match VehicleName="PCARS-LMP1" ScriptName="PCARS-LMP1" FR="10" FP="10" FX="1" FY="1" FZ="1" SR="100" SP="100" SX="100" SY="100" SZ="100" LR="100" LP="100" LX="100" LY="5" LZ="100" D="0" />
+  <Match VehicleName="PCARS-" ScriptName="PCARS-" FR="10" FP="10" FX="1" FY="1" FZ="1" SR="100" SP="100" SX="100" SY="100" SZ="100" LR="100" LP="100" LX="40" LY="5" LZ="40" D="0" />
+  <Match VehicleName="CODEMASTERS F1" ScriptName="CODEMASTERS F1" FR="10" FP="10" FX="1" FY="1" FZ="1" SR="100" SP="100" SX="80" SY="100" SZ="80" LR="100" LP="100" LX="100" LY="5" LZ="100" D="0" />
+  <Match VehicleName="AC-RUF_YELLOWBIRD" ScriptName="AC-RUF_YELLOWBIRD" FR="10" FP="10" FX="5" FY="2" FZ="5" SR="50" SP="50" SX="120" SY="100" SZ="120" LR="100" LP="100" LX="100" LY="5" LZ="100" D="0" />
+  <Match VehicleName="AC-LOTUS_EXOS_125" ScriptName="AC-LOTUS_EXOS_125" FR="10" FP="10" FX="1" FY="1" FZ="1" SR="50" SP="50" SX="100" SY="100" SZ="100" LR="100" LP="100" LX="100" LY="5" LZ="100" D="0" />
+  <Match VehicleName="AC-FERRARI_312T" ScriptName="AC-FERRARI_312T" FR="10" FP="10" FX="1" FY="2" FZ="1" SR="50" SP="50" SX="100" SY="100" SZ="100" LR="100" LP="100" LX="100" LY="5" LZ="100" D="0" />
+</Matches>

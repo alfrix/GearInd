@@ -1,0 +1,26 @@
+<Tacometer>
+  <Config RPM="11000" Cylinders="8" />
+  <Scale>
+    <P0 RPM="0" FREC="0" />
+    <P5 RPM="550" FREC="36" />
+    <P10 RPM="1100" FREC="73" />
+    <P15 RPM="1650" FREC="110" />
+    <P20 RPM="2200" FREC="146" />
+    <P25 RPM="2750" FREC="183" />
+    <P30 RPM="3300" FREC="220" />
+    <P35 RPM="3850" FREC="256" />
+    <P40 RPM="4400" FREC="293" />
+    <P45 RPM="4950" FREC="330" />
+    <P50 RPM="5500" FREC="366" />
+    <P55 RPM="6050" FREC="403" />
+    <P60 RPM="6600" FREC="440" />
+    <P65 RPM="7150" FREC="476" />
+    <P70 RPM="7700" FREC="513" />
+    <P75 RPM="8250" FREC="550" />
+    <P80 RPM="8800" FREC="586" />
+    <P85 RPM="9350" FREC="623" />
+    <P90 RPM="9900" FREC="660" />
+    <P95 RPM="10450" FREC="696" />
+    <P100 RPM="11000" FREC="733" />
+  </Scale>
+</Tacometer>
